@@ -1,0 +1,8 @@
+numlist=[ ]
+cnt=0
+while cnt >= 0:
+    m=int(raw_input())
+    if m < 0:
+        break
+    numlist.append(m)
+    cnt=cnt+1
