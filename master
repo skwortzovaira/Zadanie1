@@ -6,3 +6,12 @@ while cnt >= 0:
         break
     numlist.append(m)
     cnt=cnt+1
+switch value:
+  case condition1:
+    S1
+    break
+case condition2:
+    S2
+    break
+default:
+    S3
